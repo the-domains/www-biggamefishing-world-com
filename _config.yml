@@ -1,0 +1,28 @@
+name: www.biggamefishing-world.com
+favicon: null
+layout_spectrum: 0.7714701439253986
+typography_spectrum: 0.5928796466905624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5680191903375089
+  lightness: 0.3549653764348477
+  saturation: 0.17901201057247818
+  rhythmicContrast: 0.4830774194560945
+purpose: []
